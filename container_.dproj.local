@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2012/02/24 04:02:59.000.796,=C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2012/02/24 04:09:55.000.578,C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\kabot\container.pas=C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2012/02/24 04:09:55.000.578,C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\kabot\container.dfm=C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\Unit4.dfm</Transaction>
+    <Transaction>2012/02/24 04:10:07.000.031,C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\kabot\container_.dproj=C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2012/02/24 04:11:02.000.640,=C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\kabot\MSAudioSv.exe</Transaction>
+    <Transaction>2012/02/24 04:11:02.000.671,=C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\kabot\Release\Win32\Syschk.exe</Transaction>
+    <Transaction>2012/02/24 04:16:24.000.843,C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\kabot\Release\Win32\Syschk.exe=</Transaction>
+    <Transaction>2012/02/24 04:16:42.000.781,=C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\kabot\Syschk.exe</Transaction>
+    <Transaction>2012/02/24 04:17:58.000.250,=C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\kabot\calc.exe</Transaction>
+    <Transaction>2012/02/24 04:41:33.000.062,=C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\kabot\2.exe</Transaction>
+    <Transaction>2012/02/24 04:41:33.000.046,=C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\kabot\1.exe</Transaction>
+    <Transaction>2012/02/24 05:09:35.000.890,=C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\kabot\MSAudioSv.exe</Transaction>
+    <Transaction>2012/02/24 05:09:35.000.906,=C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\kabot\Syschk.exe</Transaction>
+  </Transactions>
+</BorlandProject>

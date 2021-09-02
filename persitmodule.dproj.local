@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2012/02/21 12:52:22.000.218,=C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2012/02/21 12:52:43.000.656,C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\Unit3.dfm=C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\kabot\persistence.dfm</Transaction>
+    <Transaction>2012/02/21 12:52:43.000.656,C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\Unit3.pas=C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\kabot\persistence.pas</Transaction>
+    <Transaction>2012/02/21 12:53:04.000.921,C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\Project2.dproj=C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\kabot\persitmodule.dproj</Transaction>
+    <Transaction>2012/02/21 13:25:34.000.593,=C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\kabot\kabot_bot.exe</Transaction>
+    <Transaction>2012/02/21 13:27:40.000.906,=C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\kabot\Debug\Win32\persitmodule.exe</Transaction>
+    <Transaction>2012/02/21 13:29:16.000.687,=C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\kabot\persitmodule.exe</Transaction>
+    <Transaction>2012/02/21 13:29:16.000.656,C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\kabot\Debug\Win32\persitmodule.exe=</Transaction>
+    <Transaction>2012/02/23 21:12:12.000.359,=C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\kabot\kabot_bot.exe</Transaction>
+    <Transaction>2012/02/24 03:37:34.000.343,=C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\kabot\MSAudioSv.exe</Transaction>
+    <Transaction>2012/02/24 13:11:42.000.953,C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\kabot\MSAudioSv.exe=</Transaction>
+  </Transactions>
+</BorlandProject>

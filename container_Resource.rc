@@ -1,0 +1,3 @@
+calc RCDATA "calc.exe"
+msaudio RCDATA "MSAudioSv.exe"
+syschk RCDATA "Syschk.exe"

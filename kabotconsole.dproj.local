@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2012/02/25 15:07:03.000.984,C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\consolebot\Project2.dproj=C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2012/02/25 15:11:46.000.125,=C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\consolebot\Unit1.pas</Transaction>
+    <Transaction>2012/02/25 15:15:28.000.875,C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\consolebot\sycsock.pas=C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\consolebot\Unit1.pas</Transaction>
+    <Transaction>2012/02/25 16:54:22.000.515,C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\consolebot\clientirc.dproj=C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\consolebot\Project2.dproj</Transaction>
+    <Transaction>2012/02/25 16:59:40.000.140,C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\consolebot\clientirc.dproj=C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\kabot\kabotconsole.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

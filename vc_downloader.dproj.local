@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2012/02/25 22:18:16.000.578,=C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2012/02/25 22:20:24.000.578,C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\Unit5.pas=C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\kabot\vcdownloader.pas</Transaction>
+    <Transaction>2012/02/25 22:20:24.000.578,C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\Unit5.dfm=C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\kabot\vcdownloader.dfm</Transaction>
+    <Transaction>2012/02/25 22:20:47.000.453,C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\Project2.dproj=C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\kabot\vc_downloader.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
